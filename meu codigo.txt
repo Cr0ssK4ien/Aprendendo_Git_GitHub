@@ -6,9 +6,10 @@ Vamos aprender
 
 git status - mostra os arquivos que sofreram alguma alteração
 git add . - adiciona os arquivos para serem eviadas 
+git push - faz o uploads no github
 
 -------- Branch ---------
 
 git branch - mostra as branch
 git branch "nome" - cria uma branch
-git checkout "nome" - muda a branch
+git checkout "nome" - muda a branchs
