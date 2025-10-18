@@ -24,3 +24,5 @@ git checkout "nome" - muda a branchs
 6. git pull
 7. Mergiar(unir) o código da brancha temporáraio com a branch principal(depois de testar)
 8. git push da branch principal
+
+-------- Pull Request --------
