@@ -3,3 +3,12 @@ Olá meu nome é Diogo.
 Olá sou uma nova linha
 
 Vamos aprender
+
+git status - mostra os arquivos que sofreram alguma alteração
+git add . - adiciona os arquivos para serem eviadas 
+
+-------- Branch ---------
+
+git branch - mostra as branch
+git branch "nome" - cria uma branch
+git checkout "nome" - muda a branch
